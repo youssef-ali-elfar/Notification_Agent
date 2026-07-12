@@ -1,4 +1,4 @@
-# AI Career Chatbot 💬
+# AI Career Chatbot 
 
 An AI-powered chatbot that represents you (based on your CV) and answers questions from visitors about your career, background, skills, and experience — built with **Streamlit** and **OpenRouter**, with **Pushover** notifications for lead capture.
 
